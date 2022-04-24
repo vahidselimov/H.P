@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\H.P\H.P\bin\Debug\netcoreapp3.1\H.P.exe
+C:\Users\Asus\source\repos\H.P\H.P\bin\Debug\netcoreapp3.1\H.P.deps.json
+C:\Users\Asus\source\repos\H.P\H.P\bin\Debug\netcoreapp3.1\H.P.runtimeconfig.json
+C:\Users\Asus\source\repos\H.P\H.P\bin\Debug\netcoreapp3.1\H.P.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\H.P\H.P\bin\Debug\netcoreapp3.1\H.P.dll
+C:\Users\Asus\source\repos\H.P\H.P\bin\Debug\netcoreapp3.1\H.P.pdb
+C:\Users\Asus\source\repos\H.P\H.P\obj\Debug\netcoreapp3.1\H.P.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\H.P\H.P\obj\Debug\netcoreapp3.1\H.P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\H.P\H.P\obj\Debug\netcoreapp3.1\H.P.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\H.P\H.P\obj\Debug\netcoreapp3.1\H.P.AssemblyInfo.cs
+C:\Users\Asus\source\repos\H.P\H.P\obj\Debug\netcoreapp3.1\H.P.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\H.P\H.P\obj\Debug\netcoreapp3.1\H.P.dll
+C:\Users\Asus\source\repos\H.P\H.P\obj\Debug\netcoreapp3.1\H.P.pdb
+C:\Users\Asus\source\repos\H.P\H.P\obj\Debug\netcoreapp3.1\H.P.genruntimeconfig.cache
